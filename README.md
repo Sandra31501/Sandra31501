@@ -1,6 +1,6 @@
 THE LIST OF BIKESHARE STATION 
 <img width="523" alt="q 1" src="https://github.com/Sandra31501/Sandra31501/assets/159038742/24251988-06a9-46e6-9c9b-0e5f64e0ed66">
- NUMBER OF ACTIVE STATION UNDER EACH POWER STATION 
+NUMBER OF ACTIVE STATION UNDER EACH POWER STATION 
  <img width="524" alt="sql2" src="https://github.com/Sandra31501/Sandra31501/assets/159038742/7e23c57d-d0f3-457f-95e1-905d1a0406ea">
 number of station and the average number of docks under each stations
 <img width="521" alt="sql3" src="https://github.com/Sandra31501/Sandra31501/assets/159038742/4f14565f-bc7a-4b86-b6e4-22879bdd3d9d">
